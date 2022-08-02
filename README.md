@@ -1,4 +1,4 @@
-# Kinect PointCloud
+# Kinect Point Cloud Viewer
 A point cloud viewer with Microsoft Azure Kinect and OpenGL.<br>
 Tha base (referenced) on [k4aviewer](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/tools/k4aviewer).
 
